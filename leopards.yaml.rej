@@ -1,0 +1,9 @@
+diff a/leopards.yaml b/leopards.yaml	(rejected hunks)
+@@ -2,6 +2,7 @@
+ 
+ manager: Nora
+ 
++coach: Melissa
+ 
+ members:
+ - Linda
